@@ -254,9 +254,10 @@ Primary header
 =======================================
 */
 .sticky {
-  background-color: #293f50;
+  background: #293f50;
   position: sticky;
   top: 0px;
+  min-width: 960px;
 }
 .logo {
   border-top: 4px solid #648880;
